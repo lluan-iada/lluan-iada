@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Atualmente estudando:
+## 🤓 Atualmente estudando:
 - Lógica de programação
 - APIs e integração de sistemas
 - Desenvolvimento web  
