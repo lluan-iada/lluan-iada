@@ -1,19 +1,13 @@
-# 👋 Olá! Eu sou o Luan!  
+<samp>
 
-🎓 Estudante de **Ciência da Computação** na **SPTECH (São Paulo Tech School)**  
+hi!
 
----
+I'm <b>Luan</b>, a CS student at <b>SPTECH</b>.
 
-## 🤓 Atualmente estudando:
-- Lógica de programação
-- APIs e integração de sistemas
-- Desenvolvimento web  
-- Banco de dados e SQL
+info:
+<br>• currently studying <b>Data Structures & Algorithms</b>
+<br>• exploring APIs & System Integration
+<br>• working with Web Dev
+<br>• diving into Databases & SQL
 
----
-
-## 📫 Contatos: 
-- 💼 LinkedIn: [linkedin.com/in/luan-iada](https://www.linkedin.com/in/luan-iada-do-nascimento/) 
-- 🖤 GitHub: [github.com/lluan-iada](https://github.com/lluan-iada)  
-
----
+</samp>
